@@ -1,0 +1,2 @@
+Scan del target: nmap -sV -sS -p- -A <ip target>
+scan sottorete nmap -sn
